@@ -32,4 +32,4 @@ weight = 5
 
 # About Me
 
-I am currently a Theoretical Physics postgraduate student, reading the Part III of Mathematical Tripos at the Department of Applied Mathematics and Theoretical Physics (DAMTP), at University of Cambridge. Before that I was a physics undergraduate student at Aristotle University of Thessaloniki. My research interests lie in the fields of Cosmology and Gravitation.
+I am currently a Theoretical Physics postgraduate student, reading the Part III of Mathematical Tripos at the Department of Applied Mathematics and Theoretical Physics (DAMTP), at University of Cambridge. Before that I was a physics undergraduate student at Aristotle University of Thessaloniki. My research interests lie in the fields of Cosmology and Gravitation. See my [Full CV!](http://google.com)
