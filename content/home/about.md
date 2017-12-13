@@ -24,7 +24,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "BSc in Physics"
+  course = "BSc (Hons) in Physics"
   institution = "Aristotle University of Thessaloniki"
   year = 2017
  
