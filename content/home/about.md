@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Large-Scale Structure of the Universe",
+    "Primordial non-Gaussianity",
     "Cosmic Inflation",
-    "Cosmic Microwave Background",
-    "Large Scale Structure",
-    "Gravitational Waves"
+    "Relativistic Cosmology"
   ]
 
 # List your qualifications (such as academic degrees).
