@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Minas Karamanis"
-copyright = "&copy; 2017 Minas Karamanis"
+copyright = "&copy; 2018 Minas Karamanis"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "mk935@cam.ac.uk"
+  email = "minaskar@gmail.com"
   address = "Minas Karamanis, Peterhouse, Cambridge, CB2 1RD, UK"
   office_hours = ""
   phone = ""
@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:mk935@cam.ac.uk"
+    link = "mailto:minaskar@gmail.com"
 
   [[params.social]]
     icon = "twitter"
