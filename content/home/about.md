@@ -19,6 +19,11 @@ weight = 5
 # List your qualifications (such as academic degrees).
 
 [[education.courses]]
+  course = "PhD in Cosmology"
+  institution = "University of Portsmouth"
+  year = 2022
+
+[[education.courses]]
   course = "MASt in Applied Mathematics"
   institution = "University of Cambridge"
   year = 2018
@@ -32,4 +37,4 @@ weight = 5
 
 # About Me
 
-In October 2018, I will join the Institute of Cosmology and Gravitation (ICG) at the University of Portsmouth as a PhD student in Cosmology. Prior to that I was a postgraduate student in Theoretical Physics at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge, reading the Part III of the Mathematical Tripos. As an undergraduate student I studied Physics at the Aristotle University of Thessaloniki in Greece. See my [Full CV!](https://drive.google.com/open?id=1b8v6zA7d6XNWLu80PHyx23FNPx56JCWK)
+In October 2018 I will join the Institute of Cosmology and Gravitation (ICG) at the University of Portsmouth as a PhD student in Cosmology. Prior to that I was a postgraduate student in Theoretical Physics at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge, where I read the Part III of the Mathematical Tripos. As an undergraduate student I studied Physics at the Aristotle University of Thessaloniki in Greece. See my [Full CV!](https://drive.google.com/open?id=1b8v6zA7d6XNWLu80PHyx23FNPx56JCWK)
