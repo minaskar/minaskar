@@ -40,11 +40,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Minas Karamanis"
-  role = "Theoretical Physics postgraduate student"
+  role = "Cosmology PhD Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "DAMTP, University of Cambridge", url = "http://www.damtp.cam.ac.uk/" } ]
+  organizations = [ { name = "ICG, University of Portsmouth", url = "http://www.icg.port.ac.uk/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
