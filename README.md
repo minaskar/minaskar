@@ -2,6 +2,8 @@
 
 I'm a Postdoctoral Researcher at the [UC Berkeley Center For Cosmological Physics](https://bccp.berkeley.edu/) and [Lawrence Berkeley National Lab](https://www.lbl.gov/). I'm interested in astronomical data science, machine learning, Bayesian inference, and open-source scientific software development.
 
+I received my PhD in Astrophysics in 2022 from the [University of Edinburgh](https://www.ed.ac.uk/), where my thesis pioneered novel methods for scalable and gradient-free Bayesian inference with applications in astronomy. Prior to my doctorate, I obtained a Master's degree in Applied Mathematics from the [University of Cambridge](https://www.cam.ac.uk/) and a Bachelor's degree in Physics from [Aristotle University of Thessaloniki](https://www.auth.gr/en/).
+
 Here are some of my coordinates online:
 - 💻 [minaskaramanis.com](https://www.minaskaramanis.com/)
 - 🔭 [Google Scholar](https://scholar.google.com/citations?user=MYjCPIkAAAAJ&hl=en)
