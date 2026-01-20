@@ -8,6 +8,7 @@ Here are some of my coordinates online:
 - 💻 [minaskaramanis.com](https://www.minaskaramanis.com/)
 - 🔭 [Google Scholar](https://scholar.google.com/citations?user=MYjCPIkAAAAJ&hl=en)
 - 📫 [minaskar@gmail.com](minaskar@gmail.com)
+- 💬 [LinkedIn](https://www.linkedin.com/in/minaskaramanis)
 
 <!--
 **minaskar/minaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
