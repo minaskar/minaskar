@@ -1,26 +1,18 @@
 ## Hi, I'm Minas 👋
 
-I'm a Postdoctoral Researcher at the [UC Berkeley Center For Cosmological Physics](https://bccp.berkeley.edu/) and [Lawrence Berkeley National Lab](https://www.lbl.gov/). I'm interested in astronomical data science, machine learning, Bayesian inference, and open-source scientific software development.
+I'm a Research Software Engineer in the Environmental Intelligence unit at [VITO](https://vito.be/en) in Belgium, where I work on [openEO](https://openeo.org/), an open API and platform for processing Earth observation data at scale. I'm interested in geospatial data science, machine learning, Bayesian inference, and open-source scientific software.
 
-I received my PhD in Astrophysics in 2022 from the [University of Edinburgh](https://www.ed.ac.uk/), where my thesis pioneered novel methods for scalable and gradient-free Bayesian inference with applications in astronomy. Prior to my doctorate, I obtained a Master's degree in Applied Mathematics from the [University of Cambridge](https://www.cam.ac.uk/) and a Bachelor's degree in Physics from [Aristotle University of Thessaloniki](https://www.auth.gr/en/).
+Before joining VITO, I was a postdoctoral researcher at the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/) and [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), developing Bayesian inference methods for astrophysics.
 
-Here are some of my coordinates online:
+I maintain [pocoMC](https://github.com/minaskar/pocomc) and [zeus](https://github.com/minaskar/zeus), Python packages for Bayesian inference used in analyses by LIGO, DESI, and Euclid.
+
+I received my PhD in [degree title] from the [University of Edinburgh](https://www.ed.ac.uk/) in 2022, with a thesis on scalable, gradient-free Bayesian inference. Before that, I completed Part III (MASt) in Applied Mathematics at the [University of Cambridge](https://www.cam.ac.uk/) and a BSc in Physics at [Aristotle University of Thessaloniki](https://www.auth.gr/en/).
+
+Elsewhere online:
+
 - 💻 [minaskaramanis.com](https://www.minaskaramanis.com/)
+- ✍️ [Ergosphere](https://ergosphere.blog/) (blog)
 - 🔭 [Google Scholar](https://scholar.google.com/citations?user=MYjCPIkAAAAJ&hl=en)
-- 📫 [minaskar@gmail.com](minaskar@gmail.com)
+- 🦋 [Bluesky](https://bsky.app/profile/minaskar.bsky.social)
 - 💬 [LinkedIn](https://www.linkedin.com/in/minaskaramanis)
-
-<!--
-**minaskar/minaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 [minaskar@gmail.com](mailto:minaskar@gmail.com)
