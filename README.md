@@ -1,6 +1,6 @@
 ## Hi, I'm Minas 👋
 
-I'm a Research Software Engineer in the Environmental Intelligence unit at [VITO](https://vito.be/en) in Belgium, where I work on [openEO](https://openeo.org/), an open API and platform for processing Earth observation data at scale. I'm interested in geospatial data science, machine learning, Bayesian inference, and open-source scientific software.
+I'm a Research Software Engineer in the Environmental Intelligence unit at [VITO](https://vito.be/en) in Belgium, working on GeoAI and Earth observation platforms, mainly [openEO](https://openeo.org/), an open API for processing satellite data at scale. I'm interested in machine learning for geospatial data, Bayesian inference, and open-source scientific software.
 
 Before joining VITO, I was a postdoctoral researcher at the [Berkeley Center for Cosmological Physics](https://bccp.berkeley.edu/) and [Lawrence Berkeley National Laboratory](https://www.lbl.gov/), developing Bayesian inference methods for astrophysics.
 
